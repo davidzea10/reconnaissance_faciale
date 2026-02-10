@@ -1,0 +1,18 @@
+# Dossiers d'images (optionnel : enlever pour les inclure au repo)
+L4/
+Test/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Divers
+.DS_Store
+*.log
